@@ -16,32 +16,6 @@ Before you begin, ensure that you have the following installed:
 C++ Compiler (e.g., GCC, Clang, or MinGW)
 
 Text Editor/IDE (e.g., Visual Studio Code, Code::Blocks, or any C++-compatible IDE)
-
-Installation
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/tic-tac-toe-cpp.git
-Navigate to the project directory:
-
-bash
-Copy
-Edit
-cd tic-tac-toe-cpp
-Compile the C++ code:
-
-bash
-Copy
-Edit
-g++ -o tic-tac-toe main.cpp
-Run the game:
-
-bash
-Copy
-Edit
-./tic-tac-toe
 Usage
 The game will prompt each player to enter their move by choosing a number (1-9) corresponding to the position on the grid.
 
